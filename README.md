@@ -1,2 +1,1 @@
-remove
-remove 2
+hint
